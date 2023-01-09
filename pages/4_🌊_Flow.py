@@ -11,9 +11,9 @@ week_days = ['Monday', 'Tuesday', 'Wednesday',
              'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 # Layout
-st.set_page_config(page_title='Bridge - Terra Dashboard',
+st.set_page_config(page_title='Bridge - Optimism Dashboard',
                    page_icon=':bar_chart:', layout='wide')
-st.title('🌉Bridge')
+st.title('🌊 Flow In & Out')
 
 # Style
 with open('style.css')as f:
