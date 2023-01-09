@@ -8,7 +8,7 @@ import plotly.subplots as sp
 # Global Variables
 theme_plotly = None  # None or streamlit
 week_days = ['Monday', 'Tuesday', 'Wednesday',
-             'Thursday', 'Friday', 'Saturday', 'Sunday']
+             'Thursday', 'Friday', 'Saturday', 'Sunday']    
 
 # Layout
 st.set_page_config(page_title='Overview - Optimism Dashboard',
